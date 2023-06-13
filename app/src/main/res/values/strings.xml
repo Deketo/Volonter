@@ -1,5 +1,11 @@
 <resources>
 
+    <!--header-->
+    <string name="app_profile">Профиль</string>
+    <string name="app_list_of_events">Список мероприятий</string>
+    <string name="app_organizer">Организатор</string>
+    <string name="app_event_report">Отчёт о мероприятии</string>
+
     <!--activity_main-->
 
     <string name="app_name">Volonter</string>
@@ -18,9 +24,6 @@
     <string name="app_main_completed_number">15</string>
 
 
-    <string name="app_footer_profile">Профиль</string>
-    <string name="app_footer_list_of_events">Список мероприятий</string>
-    <string name="app_footer_organizer">Организатор</string>
-    <string name="app_footer_event_report">Отчёт о мероприятии</string>
+
 
 </resources>
