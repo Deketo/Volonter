@@ -25,5 +25,8 @@
 
 
 
+    <!--registration_for_the_event-->
+    <string name="app_check_events">Записаться на мероприятие</string>
+
 
 </resources>
