@@ -26,7 +26,15 @@
 
 
     <!--registration_for_the_event-->
-    <string name="app_check_events">Записаться на мероприятие</string>
+    <string name="app_check_events_1">Мероприятие</string>
+    <string name="app_check_events_2">№2724788</string>
 
+    <!--my_events_list-->
+    <string name="app_my_events_list">Мои события</string>
+
+
+    <!--my_events-->
+    <string name="app_my_events_1">Мероприятие</string>
+    <string name="app_my_events_2">№2724788</string>
 
 </resources>
