@@ -6,6 +6,13 @@
     <string name="app_organizer">Организатор</string>
     <string name="app_event_report">Отчёт о мероприятии</string>
 
+    <!--login_account-->
+    <string name="app_enter">Войти</string>
+    <string name="app_register">Зарегистрироваться</string>
+    <string name="app_email">Почта</string>
+    <string name="app_password">Пароль</string>
+
+
     <!--activity_main-->
 
     <string name="app_name">Volonter</string>
